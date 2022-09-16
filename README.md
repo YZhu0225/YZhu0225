@@ -17,9 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//yuanjing-zhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/yuanjing-zhu" height="30" width="40" /></a>
-<a href="https://kaggle.com/yuanjing zhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yuanjing zhu" height="30" width="40" /></a>
+<a href="https://kaggle.com/yuanjingzhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yuanjing zhu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/h492620776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h492620776" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sharp-bartikthr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharp-bartikthr" height="30" width="40" /></a>
+<a href="https://www.leetcode.cn/u/sharp-bartikthr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharp-bartikthr" height="30" width="40" /></a>
 </p>
 
 <br>
