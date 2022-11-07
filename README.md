@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YZhu0225](https://github.com/YZhu0225)
 
-- 📫 How to reach me **yz792@duke.edu**
+- 📫 How to reach me **yuanjing.zhu@duke.edu**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yuanjing-zhu-69ba5b227/](https://www.linkedin.com/in/yuanjing-zhu-69ba5b227/)
 
