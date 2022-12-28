@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yuanjing.zhu@duke.edu** / **yz792@duke.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yuanjing-zhu-69ba5b227/](https://www.linkedin.com/in/yuanjing-zhu-69ba5b227/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/yuanjing-zhu/](https://www.linkedin.com/in/yuanjing-zhu/)
 
 <br>
 <h3 align="left">Connect with me:</h3>
